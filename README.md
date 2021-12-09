@@ -25,10 +25,18 @@ Monte Carlo Markov Chain Monte-Carlo simulation (Naive)
 ### Stript 05 
 Self Organizing Maps
 
-### Stript 06
+### Stript 06A
 Elbow analysis
+
+### Stript 06B
+Jaccard indexes
 
 ### Sript 07 
 Basic statistical analysis
+
+### Stript 08
+Survival analysis of the clusters generated for all profile
+
+
 
 ** This repository does not include the data (GPDR - protected) **
