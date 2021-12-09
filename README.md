@@ -12,7 +12,7 @@ Anthropometric variables estimation
 ### Stript 02
 Missing visits simulation
 
-###Stript 03
+### Stript 03
 Imputation test sample (random forest)
 Error imputation calculation: 
 1) normalised root-mean-squared deviation
