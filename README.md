@@ -28,6 +28,6 @@ Self Organizing Maps
 ### Stript 06
 Elbow analysis
 
-###Sript 07 
+### Sript 07 
 Basic statistical analysis
 
