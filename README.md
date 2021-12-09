@@ -7,7 +7,7 @@ This repository included the codes associated with the Analysis of Forced Vital 
 2) Time frame formating 
 3) Visit selection baseline, 90 days or 180 days
 4) Estimation of time between spirometric visits
-5) Anthropometric variables estimation
+5) Anthropometric variables
 
 ### Stript 02
 Missing visits simulation
