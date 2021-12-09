@@ -19,7 +19,7 @@ Error imputation calculation:
 2) % Error (no use in the final publication)
 3) Graphs (ggplot)
 
-###Stript 04
+### Stript 04
 Monte Carlo Markov Chain Monte-Carlo simulation (Naive)
 
 ### Stript 05 
@@ -31,3 +31,4 @@ Elbow analysis
 ### Sript 07 
 Basic statistical analysis
 
+** This repository does not include the data (GPDR - protected) **
